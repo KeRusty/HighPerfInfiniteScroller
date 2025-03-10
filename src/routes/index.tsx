@@ -16,7 +16,7 @@ function MainStack() {
         component={HomeScreen}
         options={{
           header: () => {
-            return <AppHeader title={'Infinte Post List'} />;
+            return <AppHeader title={'Infinite Post List'} />;
           },
         }}
       />
