@@ -1,6 +1,6 @@
 # 📌 High Performance Infinite Scroller
 
-A Mobile app for a TicTacToe Game.
+A Mobile app for a High Performance Infinite Scroller Game.
 
 ## 🚀 Features
 - ✨ Navigation
